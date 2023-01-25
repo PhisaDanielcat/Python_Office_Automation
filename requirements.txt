@@ -1,0 +1,8 @@
+docx==0.2.4
+openpyxl==3.0.10
+Pillow==9.4.0
+python_docx==0.8.11
+python_pptx==0.6.21
+tqdm==4.62.3
+urllib3==1.25.11
+
